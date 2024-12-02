@@ -1,0 +1,38 @@
+{
+  "cidades": [
+    {
+      "id": 1,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "populacao": 3800000
+    },
+    {
+      "id": 2,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "populacao": 11800000
+    },
+    {
+      "id": 3,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "populacao": 5300000
+    }
+  ],
+  "livros": [
+      {
+        "titulo": "JavaScript Guia definitivo",
+       "descricao": "Livro aborda linguagem de programação javaScript.",
+       "imagem": "https://m.media-amazon.com/images/I/91z1xY4ppaL._SY466_.jpg",
+       "categoria": "Programação",
+       "preco": 100.00
+      },
+    {
+      "titulo": "Node.js",
+     "descricao": "Livro aborda linguagem de programação javaScript.",
+     "imagem": "https://s3.novatec.com.br/capas/9788575226773.jpg",
+     "categoria": "Programação",
+     "preco": 80.00
+    }
+  ]
+}
