@@ -1,21 +1,21 @@
 {
-  "aluno": 
-    {
-      "nome": "Samara Lana da Rocha",
-      "minibio": "",
-      "curso": "Sistemas de Informação",
-      "turma": "2024/2",
-      "redes_sociais": [],
-      "foto": "",
-    },
-  "favoritos": [
-    {
-      "id" : 0,
-      "nome": "TWD"
-    },
-    {
-      "id" : 1,
-      "nome": "Fleabag"
-    }
-  ]
-}
+    "aluno": [
+      {
+        "nome": "Samara Lana da Rocha",
+        "minibio": "",
+        "curso": "Sistemas de Informação",
+        "turma": "2024/2",
+        "redes_sociais": [],
+        "foto": ""
+      }],
+    "favoritos": [
+      {
+        "id" : 0,
+        "nome": "TWD"
+      },
+      {
+        "id" : 1,
+        "nome": "Fleabag"
+      }
+    ]
+  }
