@@ -1,5 +1,5 @@
 {
-    "aluno": [
+    "aluno":
       {
         "nome": "Samara Lana da Rocha",
         "minibio": "",
@@ -7,7 +7,7 @@
         "turma": "2024/2",
         "redes_sociais": [],
         "foto": ""
-      }],
+      },
     "favoritos": [
       {
         "id" : 0,
