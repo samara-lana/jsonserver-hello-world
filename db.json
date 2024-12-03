@@ -12,11 +12,15 @@
     "favoritos": [
       {
         "id" : 0,
-        "nome": "TWD"
+        "nome": "Mania de Você",
+        "avaliacao": 6,
+        "descricao": "No cenário paradisíaco de Angra dos Reis, duas mulheres têm seus destinos entrelaçados em um jogo de amor, poder e obsessão, que muda a trajetória de suas vidas para sempre."
       },
-      {
+    {
         "id" : 1,
-        "nome": "Fleabag"
+        "nome": "Yellowstone",
+        "avaliacao": 8,
+        "descricao": "John Dutton tenta proteger seu rancho, o maior dos Estados Unidos, de um mundo corrupto."
       }
     ]
   }
