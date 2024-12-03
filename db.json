@@ -11,11 +11,11 @@
   "favoritos": [
     {
       "id" : 0,
-      "nome": ""
+      "nome": "TWD"
     },
     {
-      "id" : 0,
-      "nome": ""
+      "id" : 1,
+      "nome": "Fleabag"
     }
   ]
 }
