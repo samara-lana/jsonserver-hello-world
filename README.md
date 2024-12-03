@@ -28,11 +28,11 @@ Para hospedar este projeto no render, siga os seguintes passos:
 6. Em "Source Code", clique em "Public Git Repository" e informe a URL do seu repositorio, exemplo: "https://github.com/wcipriano/jsonserver-hello-world"
 7. Clique em connect
 8. Confira os dados do seu projeto:
-  Language: Node
-  Branch: main
-  Build Command: npm install
-  Start Command: node index.js
-  Instance Type: Free
+  * Language: Node
+  * Branch: main
+  * Build Command: npm install
+  * Start Command: node index.js
+  * Instance Type: Free
 9. Clique em "Deploy web service"
 10. Aguarde o processo de deploy 
 11. Depois de finalizado o processo (em média 5min), utilize a url que fica abaixo do nome do seu projeto para testar, exemplo:
